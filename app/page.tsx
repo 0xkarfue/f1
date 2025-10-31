@@ -25,7 +25,7 @@ export default function AfterPartyPage() {
   }, [])
 
   const handleBuyPass = () => {
-    window.open("https://instagram.com/direct/t/nemendra_20a/", "_blank")
+    window.open("https://www.instagram.com/direct/t/17842974704621560/", "_blank")
   }
 
   return (
